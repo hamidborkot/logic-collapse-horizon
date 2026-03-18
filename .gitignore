@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environments
+.env
+.venv
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_metadata
+
+# Models / data
+*.pt
+*.pth
+*.pkl
+data/
+
+# Figures (regenerate with figures.py)
+figures/*.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Colab
+drive/
+sample_data/
