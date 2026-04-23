@@ -11,7 +11,6 @@
 
 > **Paper**: *"Logic Collapse Horizon: When Compressed Neural Networks Lose Their Reasoning — Explanation-Faithful Compression via LoRA-SHAP for Intrusion Detection"*
 > 
-> *Md. Hamid Borkot Tulla — 2026*
 
 </div>
 
