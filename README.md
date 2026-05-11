@@ -223,5 +223,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
-<sub>Built with 🧠 + PyTorch + SHAP | Taipei, Taiwan 🇹🇼</sub>
+<sub>Built with 🧠 + PyTorch + SHAP | Chongqing, China CN</sub>
 </div>
